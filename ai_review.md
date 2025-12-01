@@ -1,0 +1,2 @@
+根据& 'd:\Github\Macao fiscal peg\other literature\NBER-w34300 Hong Kong''s Currency Board and Credibility.md'和& 'd:\Github\Macao fiscal peg\proposal_3_en.md'（首先阅读这个），写一个地道的精炼的英文文献综述，补充到0. Literature Review，主要是说，1.
+  这篇文章对我的主题和researcvh question贡献了什么，和我的方法和思路有什么不同，对我的proposal能有什么启发（我应该如何改进） 
