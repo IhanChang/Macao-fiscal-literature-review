@@ -1,0 +1,816 @@
+--- page 1 ---
+The Basic Framework for International Reserves
+and Its Application to Macao
+S. S. Chan
+Research and Statistics Department, Monetary Authority of Macao
+Abstract
+International reserves exist in every independent economy that does not completely
+block cross-border transactions. For the world as a whole and in the developing world
+in particular, reserves holdings have grown at a markedly fast pace notwithstanding
+the existence of holding costs and an increasing number of economies to opt for
+higher exchange-rate flexibility. Meanwhile, some national authorities continue to
+count on international reserves in enhancing external balance and monetary stability.
+This paper encompasses an extensive survey of the leading literature, with special
+focus on policy functions, demand models and indicators of reserve adequacy. By
+applying the basic framework to Macao, we conclude that the SAR is in a superior
+position in terms of reserve adequacy by international standards, and highlight
+important policy implications.
+- 81 -
+
+--- page 2 ---
+The Basic Framework for International Reserves and Its Application to Macao
+1. Definition of International Reserves
+International reserves are indispensable financial resources of an economic region.
+They exist in every independent economy that does not completely close its door for
+international transactions, though the amounts held by the authorities in different
+economic regions are varied with an array of policy-determined and objective factors.
+Prior to the worldwide prevalence of the fiat money system, international reserves had
+had a prominent influence on domestic base money under a specie flow mechanism.
+In the contemporary era, this traditional link to domestic money supply has only been
+inherited by a limited number of small economies that operates under strict exchange-
+rate targeting monetary regimes such as currency board.1
+According to Heller (1966), international reserves are bound to possess two qualities.
+First, they are acceptable at all times to foreign economic agents for payment of
+financial obligations. Second, their value, expressed in foreign units of account,
+should be known with certainty. In the Bretton Woods period2 when exchange-rate
+rigidity prevailed, those assets were mainly used, directly or through assured
+convertibility into other assets, to support currency exchange rates in times of external
+payments deficit.3
+The modern definition exhibits little deviation from the orthodox thinking. According
+to the latest Balance of Payments Manual (1993) of the International Monetary Fund
+(IMF), an economy’s international reserves4 refer to “those external assets that are
+readily available to and controlled by monetary authorities for direct financing of
+payments imbalances through intervention in exchange markets to affect the currency
+exchange rate, and/or for other purposes.”5 In accordance with this general
+1 Strictly speaking, the flow of base money is matched one-to-one by the flow of foreign reserves. See
+Ho (2002).
+2 That is the late 1940s–the early 1970s.
+3 This was a prevailing view advocated by the Group of Ten central banks in 1965.
+4 They are also named “official reserve assets” or “reserve assets” by the IMF.
+5 Some foreign currency assets held by monetary authorities or government are not included in
+international reserves, but included in “foreign currency liquidity”. See Kester (2001)
+- 82 -
+
+--- page 3 ---
+The Basic Framework for International Reserves and Its Application to Macao
+framework of balance of payments (BOP), international reserves conceptually
+represent monetary authorities’ financial claims on nonresidents.
+To ensure their readiness for use in financing payments deficits, international
+reserves should be liquid or marketable, and denominated in convertible foreign
+currency. Four kinds of assets should be included in international reserves. They are
+(i) convertible foreign exchange held by monetary authorities in the form of currency,
+deposit, securities or financial derivatives, (ii) monetary gold, (iii) special drawing
+rights (SDRs), and (iv) unconditional6 drawing rights with the IMF, or reserve
+position at the IMF.
+In line with the residency principle of BOP, the IMF does not recommend that foreign
+currency deposits with or foreign currency securities issued by resident institutions7
+be included in international reserves.8 Meanwhile, for those economies such as
+Macao that do not possess any amount of items (ii)–(iv), foreign exchange reserves, a
+narrowly defined but more popular terminology in international finance, are identical
+to international reserves.
+Except for financial derivatives, the valuation of international reserves is adhered to a
+gross standard under which external liabilities of monetary authorities are not
+deducted from external assets. However, as international reserves are measured in
+gross values, data released by national authorities could be a misleading guide to their
+true payment capacity, especially for those economies where statistical transparency is
+not aptly enforced. The true level can be disguised by changes in the valuation
+method as well as by direct transactions with foreign monetary authorities
+(Williamson 1976).
+6 International reserves are usually considered to be unconditional international liquidity. Conditional
+liquidity consists of the possibility of borrowing reserves through inter-central bank swap arrangements
+or from the credit tranches at the IMF (Williamson 1973).
+7 Locally incorporated bank and local branch of foreign bank are examples.
+8 With the exception that certain restrictive circumstances such as counterpart foreign currency claims
+are made available. For details, see Kester (2001).
+- 83 -
+
+--- page 4 ---
+The Basic Framework for International Reserves and Its Application to Macao
+In practice, some countries can institutionalise large swap arrangements between the
+central bank and the commercial banks, which can show up as increases in their gross
+reserve figures just prior to accounting or reporting days even though there has been
+no real purchase of domestic currencies with foreign currencies in the market to spur
+reserves accumulation (Suss 1976). Strictly speaking, such a “window dressing”
+portion should not count as international reserves, and some international
+organisations have provided specified principles of valuation to better reflect the true
+value of international reserves (Kester 2001).
+It should be noted that international reserves are restricted to those held by monetary
+authorities, though the term “international money” is adopted by some economists to
+include private as well as official holdings of internationally liquid assets. One
+argument is that net foreign assets of commercial banks can be included in an
+economy’s international reserves, especially to the extent that the monetary authorities
+have control over the commercial banks, or the banks are simply state-owned.
+However, this extended definition of international reserves does not conform to the
+internationally accepted definitions such as that of the IMF because it is rather
+difficult to determine quantitatively the amount of commercial banks’ net foreign
+assets that can be used by the authorities in times of need (De Beaufort Wijnholds
+1977).
+Macao is a highly open economy in which external transactions account for a
+dominant share of its economic activity. Its legal tender, Pataca, maintains a fixed
+exchange-rate relationship with the Hong Kong dollar under the institutional
+arrangement of currency board, which emphasises full reserves backing of its base
+money. As a result, international reserves as a public financial resource independent
+of treasury accounts play a pivotal role in maintaining the external balance and
+monetary stability, and hence merit in-depth research.
+This paper offers a comprehensive survey of leading literature on international
+reserves centering on their functions and demand determinants/adequacy, and
+explores its relevance to Macao. It is hoped that our work could enhance the
+- 84 -
+
+--- page 5 ---
+The Basic Framework for International Reserves and Its Application to Macao
+knowledge about the valuable resource of Macao, and serve as a basic reference for
+the design of Macao’s international reserves policy.
+The layout of this paper is as follows. The next section introduces three main policy
+functions of international reserves, which fundamentally justify the government
+holding of the financial resource. Section 3 outlines various schools of thought on the
+specification of the demand function of international reserves or determinants of
+demand for international reserves, which are inexorably tied to their functions
+presented in Section 2. To extend the discussion in Section 3 from an empirical
+perspective, Section 4 presents various popular indicators to quantify the adequacy of
+international reserves. The indicators appear to be simplistic, though they are widely
+used for international comparison. Section 5 analyses the trend of international
+reserves in Macao based on the theoretical framework presented in Section 3, and
+applies various indicators presented in Section 4 to illustrate Macao’s outstanding
+position in reserves adequacy. The last section highlights policy implications of
+reserves accumulation for Macao. Our analysis would also be relevant for other
+comparable reserves-abundant economies.
+2. Policy Functions of International Reserves
+From time to time, individual economies, especially for those with a high degree of
+openness, are likely to encounter random shocks to their external balance, prompting
+temporary discrepancies between international payments and receipts or “imbalance”
+in BOP.9 International reserves as a shock absorber therefore represent an economy’s
+ability to finance the payments deficit without solely resorting to painful, undesirable
+adjustments (Arndt 1948; Clark 1970a; Crockett 1978).
+9 External balance is analogous to internal balance, which is conventionally defined as national income
+at full employment level.
+- 85 -
+
+--- page 6 ---
+The Basic Framework for International Reserves and Its Application to Macao
+Enough provision of reserves can contain the loss in national income and the
+variability of income and price10 as adjustment to temporary external imbalance,
+especially when an economy is operated under fixed exchange-rate arrangements, can
+be made in the absence of extensive application of expenditure-changing policies.11
+When the domestic adjustment cost is unacceptably high,12 the authorities, in the
+absence of enough reserves cushion, could be compelled to impose trade, price or
+exchange controls, which would severely disrupt the operation of a free-market
+economy (Johnson 1956). Even though the deterioration in external balance proves
+to be permanent,13 international reserves allow the economy to “buy time” for its
+adoption of appropriate adjustment or structural policies (Clark 1970b). The resource
+then allows for adjustment to payments imbalance more gradually than otherwise.
+For countries that borrow heavily abroad for the financing of BOP deficits,
+international reserves informally perform the function of collateral for external
+liabilities (De Beaufort Wijnholds 1977). However, it can be argued that this function
+is largely notional as external assets, including international reserves, possessed by an
+economy are ultimately the resources to be used to settle its external liabilities for a
+sustainable external balance.
+International reserves also play a role in enhancing confidence in national currency.
+This is, to a larger extent, applicable to small economies or economies in a process of
+liberalising their external accounts. If international reserves decline below a certain
+zone, foreign and local holders of the currency could be doubtful about the officially
+guaranteed convertibility of the currency, or the ability of the authorities to maintain
+successfully the exchange rate at an acceptable level. The loss in confidence could
+induce the currency holders to export capital, and hence disrupt external balance and
+monetary stability.
+10 In a sense, it is disruptive to the internal balance.
+11 Those are fiscal and monetary policies.
+12 For example, it can be a very sharp rise in interest rates to dampen drastically domestic activity.
+13 International cost or inflation differentials are examples of structural or permanent payments
+imbalance.
+- 86 -
+
+--- page 7 ---
+The Basic Framework for International Reserves and Its Application to Macao
+Under some monetary regimes such as currency board in particular, the level of
+reserve holding is strictly tied to the issuing amount of monetary base. It should be
+disseminated on a regular basis for enhancing the credibility of or confidence in the
+regime in which the authorities are committed to the full convertibility of the domestic
+currency into an anchor currency14 at a fixed exchange rate (Chan 2004).
+3. Demand for International Reserves
+The policy functions, as specified in the previous section, derive demand for
+international reserves. Among them, shock absorption with an emphasis on securing a
+smooth adjustment under fixed exchange rate arrangements is particularly pertinent.
+Needless to say, the choice of exchange rate regime is the utmost determinant of
+demand for international reserves.
+In principle, perfectly flexible exchange rates could eliminate the need for holding
+reserves (Crockett 1978). On the contrary, with fixed or heavily managed exchange
+rates, the authorities, which are unwilling to use expenditure-switching policy15 to
+resolve temporary payment problems, are prepared to intervene actively in the foreign
+exchange market and correspondingly demand for reserves (Kelly 1970; Frenkel 1974,
+1980; Edwards 1983). Peg to a single, floating currency in a world of generalised
+floating would further increase reserve use because of added variability in BOP
+caused by the movement of exchange rates between third currencies and the anchor
+currency (Heller and Khan 1978).
+A small number of economies, including Hong Kong and Macao Special
+Administrative Regions of China, adopt the currency board system as a credible
+institution to support the domestic currency’s fixed exchange rate against a single
+external currency.16 Active intervention in the foreign exchange market by the
+14 It is also named intervention or linked currency.
+15 That is variable exchange rate policy.
+16 The 2006 IMF Annual Report on Exchange Arrangements and Exchange Restrictions identifies
+seven economies adopting the currency board system, i.e. Bosnia & Herzegovina, Brunei Darussalam,
+- 87 -
+
+--- page 8 ---
+The Basic Framework for International Reserves and Its Application to Macao
+authorities, which normally exists in other forms of pegged exchange rate system, is
+rare under this monetary arrangement. Nevertheless, the demand for international
+reserves is automatically derived from the credible backing for convertibility of the
+domestic currency into a specified external currency at a fixed exchange rate, while
+change in the holding amount of international reserves could be viewed as a passive
+adjustment to developments in the external balance.17
+In this regard, it may look paradoxical that world reserves have been on a rising trend
+even though more countries have opted for higher exchange rate flexibility after the
+collapse of the Bretton Woods System in 1973.18 Most recently, world reserves have
+even been growing at a notably fast pace. With reference to IMF data, foreign
+exchange reserves of developing countries nearly quadrupled during 1996-2005,
+while those of industralised countries rose 150%.19 This, however, could be a
+reflection of central banks’ preference for “managed float” rather than free float
+(Calvo and Reinhart 2000).20
+Since intervention in the foreign exchange market by monetary authorities for various
+reasons requires international reserves, one would expect a persistently strong or at
+least relatively stable demand, which might not differ greatly from the demand
+estimated for the adjustable peg regime or the Bretton Woods System (Frenkel 1983).
+Meanwhile, many developing or emerging-market economies have still maintained
+their currency pegs against major international currencies. This to some extent helps
+Bulgaria, Hong Kong, Djibouti, Estonia and Lithuania. Pao (2003a) identifies six more cases –
+Bermuda, Cayman Islands, Falkland Islands, Faroe Islands, Gibraltar, and Macao – according to other
+sources.
+17 In fact, under a typical form of fixed exchange rate regime, a surplus in the basic BOP would incur
+corresponding increase in international reserves, and also in monetary base/money supply given little
+capacity for the monetary authorities to conduct “sterilisation” operations.
+18 According to the European Central Bank (2006), world foreign exchange reserves have multiplied by
+a factor of 45 since the end of the Bretton Woods System.
+19 It was estimated that about 74% of world reserves were USD assets at end-2005. See The Wall
+Street Journal (Asia edition), 9 May, 2006, p. 11.
+20 Many Asian countries have actively managed foreign exchange after the financial crisis of 1997-98
+(Terada-Hagiwara 2005). Dooley et al. (2003) argues that managing exchange rates could be
+“mercantilist” as preventing or slowing currency appreciation by hoarding reserves can promote
+exports. The heavy burden of external debt servicing also urges highly indebted countries to manage
+exchange rates.
+- 88 -
+
+--- page 9 ---
+The Basic Framework for International Reserves and Its Application to Macao
+explain the phenomenon of continuously rising demand for reserves, particularly in
+developing countries.21
+While highlighting the choice of exchange rate regime as a fundamental determinant,
+earlier research failed to offer a solid basis for modeling the quantity demand for
+international reserves.22 Significant work on specification of the demand function
+only started to emerge in the late 1960s. It generally shows that countries have a
+“desired” stock of reserves determined by a few number of independent variables, and
+deviations of the actual stock from the desired stock would trigger a process of policy-
+induced adjustment for closing the gap between the desired and actual levels.
+Quantitative estimation is for the theoretically desired rather than actual stock, which
+reflects the long-run behaviour of reserves holding.
+There are basically three variables identified in the literature to explain the level of
+desired reserve holdings. They are the cost of macroeconomic adjustment, the
+opportunity cost of holding reserves and the variance of international transactions.
+The first one is a country-specific variable while the other two are general variables
+applicable to most cases.
+(i) The cost of macroeconomic adjustment
+Macroeconomic adjustment by taking policy measures23 to restore payments balance
+often incurs a cost, which can be stated in terms of aggregate income or welfare
+forgone. The higher the cost is there, the stronger the demand for reserves would be.
+Meanwhile, the degrees of exchange-rate flexibility and openness of the economy
+reflect the cost of macroeconomic adjustment.
+21 About 70% of foreign exchange reserves are held by developing countries according to the IMF.
+22 For example, as referred to the lively description in the classic work of Machlup (1966), under a
+generalised fixed exchange rate regime, the demand of central bankers for international reserves, “like
+that of women for clothes”, is just regarded as “a simple desire for a little more than last year”.
+23 For example, contractionary fiscal/monetary policy (i.e. expenditure-reducing policy) and exchange
+rate depreciation (i.e. expenditure-switching policy) to prompt BOP surplus.
+- 89 -
+
+--- page 10 ---
+The Basic Framework for International Reserves and Its Application to Macao
+Fixed exchange rates, which rule out the adoption of the expenditure-switching policy
+to relieve the adjustment burden on the expenditure-reducing policy, imply high cost
+of domestic income adjustment to external imbalance. The demand for international
+reserves would be strong, and the authorities would tend to gradually accumulate
+reserves in normal times. Once the economy encounters BOP shocks that cause
+significant payment deficits, the authorities will use reserves as a shock absorber to
+reduce the cost of macroeconomic adjustment. In other words, the economy would be
+able to finance rather than adjust in times of payments imbalance.24 Besides, an open
+economy25 is likely to encounter more frequently external shocks, and hence would
+bear high adjustment costs. In order to smooth out the adjustment process,
+economies with a high degree of openness should have strong demand for
+international reserves (Frenkel 1974, 1983; Flood and Marion 2002).26
+Meanwhile, countries at different development levels appear to show divergent
+demand preferences for reserves with developed countries demanding for a smaller
+quantity of reserves. The speed of macroeconomic adjustments is normally faster in
+developed countries than in developing countries. This may reflect the relatively low
+efficiency and effectiveness of macroeconomic policies in developing countries,
+which therefore rely more on reserves financing than macroeconomic adjustment
+means to deal with payments imbalance (Bilson and Frenkel 1979).27
+24 Nevertheless, a flexible domestic price system could serve as a substitute for floating exchange rates,
+enhancing speedy adjustment in real rather than nominal exchange rates to external imbalance. Then,
+the requirement for international reserves would be generally lower in those economies with high
+domestic price flexibility.
+25 The degree of openness can be indicated by the ratio of import, export or total trade to gross
+domestic product, marginal or average propensity to import, and the ratio of international capital flows
+to gross domestic product (i.e. financial openness). See, for example, Edwards (2005).
+26 Heller (1966) argues that higher degree of openness as indicated by marginal propensity to import
+would lower the adjustment cost as a small change in income (i.e. expenditure-reducing) causes a
+proportionally larger change in imports and hence larger impact on the BOP. Therefore the open
+economy tends to be less reliance on reserves as a shock absorber. However, the majority of empirical
+studies does not support Heller’s argument, but supports the general belief that higher openness
+coincides with stronger reserves demand.
+27 Japan may be a notable exception. Meanwhile, faster adjustment entails a cost in the form of greater
+fluctuations in the level of aggregate income (Clark 1970a). Thus the authorities in developed
+countries may encounter a trade off between income variability and the level of international reserves.
+- 90 -
+
+--- page 11 ---
+The Basic Framework for International Reserves and Its Application to Macao
+(ii) The opportunity cost of holding reserves
+Reserve holdings can reduce the level of aggregate income as international reserves
+can be used for domestic investment and consumption. This variable should therefore
+be negatively related to reserves demand.
+A large volume of literature offers different methods to measure the opportunity cost
+of holding reserves. It can be simply proxied by the government bond yield,28 the
+domestic discount rate,29 or the yield on domestic securities.30 However, international
+reserves would also yield return, though the return is relatively low partly attributable
+to the restrictions on their management.31 Edwards (1985) therefore estimates the
+opportunity cost as the difference between the rate of interest on the external debt32
+and the London Interbank Offered Rate (LIBOR).33
+Similarly, Ben-Bassat and Gottlieb (1992a) define the opportunity cost of holding
+reserves as the difference between the highest possible marginal productivity forgone
+from an alternative investment in fixed assets and the yield on international reserves.
+The real rate of return on capital is calculated as the ratio of profits to gross capital
+stock of the business sector. In periods of economic slowdown when the return on
+capital in the business sector drops to a very low level, the substituting measure is the
+marginal rate of return on government projects. The yield on international reserves
+can be approximated as the weighted average of real interest rates on short-term
+deposits in reserve currencies, or simply the US Treasury bond rate (Bird and Rajan
+2003).
+28 In equilibrium the rate of return on capital is equated to the long-term rate of interest, i.e. the
+government bond yield. See Courchene and Youssef (1967).
+29 It approximates the return on capital. See Iyoha (1976).
+30 See, for example, Frenkel and Jovanovic (1981).
+31 For a brief discussion about the restrictions, see Pao (2003b).
+32 It is the cost at which that the economy borrows from the international financial market.
+33 The LIBOR is a representative measure of interest earned from international reserves.
+- 91 -
+
+--- page 12 ---
+The Basic Framework for International Reserves and Its Application to Macao
+(iii) The stability of the external sector
+High variability of international transactions or the BOP normally comes with strong
+demand for reserves (Kenen and Yudin 1965). Standard deviation of annual changes
+in the stock of trend-adjusted international reserves is a simple measure of the
+variability, especially under a fixed exchange rate regime, where changes in reserves
+largely reflect BOP developments.34
+The recent literature focuses on the “precautionary” or “insurance” demand for
+international reserves, especially for developing countries under financial
+liberalisation35 or increased uncertainty in the aftermath of a financial crisis,36 in
+which their external sectors are potentially violate (Stiglitz 2002). International
+reserves can stabilise aggregate income, fiscal expenditure and domestic absorption
+during financial crises characterised by a sudden halt of net capital inflows or a
+current account reversal (Edwards 2004; Aizenman and Lee 2005). It can be viewed
+as a safety cushion against an undesired shortage of international liquidity in times of
+disruption37 especially for developing countries that have limitation to borrowing
+foreign currencies when needed.38
+To summarise, open developing economies with low exchange rate flexibility and
+high variability of international transactions tend to have strong demand for
+international reserves. However, at times when there is abundant opportunity for
+34 For cross-country comparison, the standard deviation and other explanatory variables should be
+divided by imports or gross domestic product to obtain a free-of-scale measure (Frenkel and Javanovic
+1981). See Section 4 of this paper.
+35 That is increased international capital mobility.
+36 For example, the 1994 Mexican crisis and the 1997/98 Asian crisis. Meanwhile, financial
+liberalisation would also increase vulnerability to financial crises, and hence lifts the precautionary
+demand. However, Edwards (2005) conducts an empirical study to show that countries with high
+capital mobility do not have a significantly higher incidence of external crises. But once a crisis occurs,
+countries with high capital mobility tend to face a higher macroeconomic adjustment cost in terms of
+income growth decline.
+37 Examples include war, banking crisis and BOP crisis.
+38 As discussed in Section 2, international reserves function to reduce the possibility to impose capital
+controls. To relieve the pressure to accumulate reserves, several Asian countries have recently signed
+on a mutual swap agreement under the “Chiang Mai Initiative”. Credible IMF aids would also help
+relieve pressure on reserves accumulation.
+- 92 -
+
+--- page 13 ---
+The Basic Framework for International Reserves and Its Application to Macao
+higher yield alternative applications of the financial resources, the desired stock of
+international reserves would be somewhat contained.
+4. Standard Ratios to Indicate Reserves Adequacy
+Indicators for reserves adequacy, in line with the analysis of the functions of reserves
+and demand for reserves in Sections 2 and 3, have been very limited. Most of them,
+which are expressed in ratio to some macroeconomic variables and still popular today,
+had been developed before the 1970s. Indicators in the form of ratio are typical
+scaling technique for international comparison (Flood and Marion 2002). The most
+popular ones are introduced as follows:
+(i) The ratio of reserve to import. The ratio has been deemed as a standard measure of
+reserves adequacy since the 1960s.39 This concept is originated from Triffin (1947),
+who argues that the demand for reserves could normally be expected to grow in line
+with international trade. The ratio shows how long an economy could finance its
+imports if it were suddenly deprived of all of its foreign exchange earnings due to
+payment shocks (Kenen and Yudin 1965).
+The IMF started to use the reserve-to-import ratio to measure the adequacy of reserves
+in the 1950s. Under the Bretton Woods System, major nations aimed at maintaining a
+reserve level of no less than 40% of their annual imports in most years, while a 20%
+level was regarded as an absolute minimum (Triffin 1960). Most recently, the
+European Central Bank (2006) still recognises three to four months’ import coverage
+as the “rule of thumb”. Although its relevance is less specific than that of imports,
+gross domestic product as an indicator of aggregate economic activity has also been
+39 However, Courchene and Youssef (1967) argue that the measure is oversimplified despite its high
+popularity. International payments include items other than goods and services, and changes in the
+composition of trade towards items subject to greater seasonal and cyclical fluctuations need not, at the
+level of imports, call forth the same demand for reserves.
+- 93 -
+
+--- page 14 ---
+The Basic Framework for International Reserves and Its Application to Macao
+widely used as a scaling variable in measuring comparative reserves adequacy among
+countries in recent years.40
+(ii) The ratio of reserves to domestic money or central-bank monetary liabilities.
+Machlup (1966) suggests the ratio as a measure of reserves adequacy with a view to
+enhancing confidence in domestic currency, especially under a fixed exchange rate
+arrangement. The ratio indicates the degree of risk of capital flight from the domestic
+currency.
+(iii) The ratio of reserves to net external balance or larger annual reserve loss. Brown
+(1964) proposes this ratio as a standard indicator in view of international reserves’
+function as a cushion against future payments imbalance for which the past balance is
+treated as a proper proxy.
+(iv) The ratio of reserves to short-term external debts.41 The ratio reflects an
+economy’s financial ability to service its existing short-term external debt, especially
+in times of a sudden stop in short-term external debt flows. Some former top finance
+officials, such as Alan Greenspan and Pablo Guidotti, suggest a minimum ratio of
+100% for developing countries. Meanwhile, Jeanne and Rancière (2006) offer a
+quantitative model to justify the Greenspan-Guidotti rule, with an assumption that the
+sudden stop of capital flows during crises is considerably sizable.
+It is difficult, if not impossible, to determine scientifically the optimal ratios. As
+Grubel (1971) argues, the studies of prospective adequacy of reserves using those
+ratios are based on a theoretically inadequate foundation. Under the system of fixed
+exchange rates, in particular, destabilising exchange speculation is so unpredictable in
+its timing and duration that no objective notion of “adequacy” is possible. However,
+the ratios can still provide a simple base for cross-country comparison in reserves
+40 Jeanne and Rancière (2006) offer a preliminary quantitative analysis, which shows optimal levels of
+reserves for emerging market economies with varied probabilities of a sudden stop in international
+capital flows, degrees of risk aversion and term premium of interest returns.
+41 Normally referring to debts maturing within one year.
+- 94 -
+
+--- page 15 ---
+The Basic Framework for International Reserves and Its Application to Macao
+adequacy. When the ratios are stable, it may also reveal that the desired demand is
+satisfied.
+5. Application to Macao
+Macao is a highly open economy as its external sector, represented by exports and
+imports, accounts for a dominant share of the overall economic activity. As
+mentioned above, it adopts a currency board system with low exchange rate flexibility.
+The SAR’s economy, which relies heavily on international transactions with a low
+degree of diversification, demonstrates a high degree of variability (Chan 2006).
+In addition, official BOP statistics confirm Macao’s solid status as a capital exporter,
+while the persistently weak growth of domestic credit under a surplus government
+sector and the low loan-to-deposit ratio indicate few alternative applications of
+financial resources, and hence low opportunity cost of international reserves. Macao
+is therefore expected to have strong desired demand for international reserves, though
+in practice the authorities are unlikely to provoke payments surplus by deliberate
+contractionary policy for reserves accumulation.42 Market-driven developments in the
+BOP should by all means reflect in the change in international reserves under a fixed
+exchange rate monetary system.
+Chart 1 presents the historical development of international reserves held by the
+monetary authorities since the 1980s. It is observed that Macao’s international
+reserves have been moving along a long-term rising trend, indicating a sustained
+surplus position in its BOP.43 The strong performance of the export sector, which has
+42 For a detailed discussion about the passive monetary operations of the authorities, see Chan (2004).
+However, the accumulated fiscal surplus in Macao, though not a discretionary policy action, does help
+explain the payments surplus and reserves accumulation under a linked exchange rate regime. The
+fiscal surplus also contains the growth of domestic money supply, sterilising the monetary expansion
+effect of international reserves accumulation without destabilising the fixed exchange rate.
+43 Macao’s BOP statistics have been made available since the year 2002.
+- 95 -
+
+--- page 16 ---
+The Basic Framework for International Reserves and Its Application to Macao
+induced a continued surplus in the current account, is the primary reason for the one-
+sided development of the BOP.44
+Chart 1: Macao's International Reserves, 1985-2006
+106 MOP
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005
+Source: AMCM.
+Note: International reserves of 2006 indicate the figure at end-September of the year.
+Standard ratios further indicate Macao’s superior position in reserves adequacy by
+international standards. Macao’s import cover has exceeded 12 months, while its
+ratio of reserves to domestic money is one of the highest in the world (Table 1).
+Compared with other economies adopting currency board arrangements, the SAR is
+clearly at the higher end of the ratio scale. Most remarkably, Macao’s international
+reserves are not only valued at 19 times its total currency in circulation, but also more
+44 With reference to the data of the Economist Intelligence Unit, Macao’s current account surplus as a
+percentage of GDP would be the second biggest in the world, just behind Kuwait. See The Economist
+magazine, 18 March 2006 issue, p. 94. In theory, the surplus implies excess domestic savings over
+investment, which is partly owing to the inability of domestic financial markets to channel private
+savings to investment. An indirect evidence for ineffective domestic financial markets is the continued
+accumulation of foreign assets by the private sector. However, some argue that in worldwide openness
+of the capital and financial account, the domestic savings and investment imbalance or current account
+imbalance could be a norm rather than exception. See Bank of England Governor Mervyn King’s
+speech on Reform of the IMF to the Indian Council for Research on International Economic Relations,
+New Delhi, India, 20 February, 2006.
+- 96 -
+
+--- page 17 ---
+The Basic Framework for International Reserves and Its Application to Macao
+than adequate in covering all pataca-denominated broad money, M2, or guaranteeing
+a system-wide convertibility (Chart 2).45
+Table 1: Standard Indicators for Reserves Adequacy
+Reserves-to-GDP Reserves-to-currency in
+Import Cover1
+ratio2 circulation ratio3
+(Number of months) (%) (%)
+Mainland China 15.9 36.9 321.9
+Japan 17.3 18.3 135.6
+Chinese Taiwan 14.6 73.1 1,131.0
+South Korea 8.6 26.7 969.7
+India n.a. 16.5 165.2
+Malaysia 7.2 53.4 935.6
+Singapore n.a. 99.2 1,368.9
+Bosnia and
+4.5 n.a. 266.9
+Herzegovina*
+Brunei
+n.a. 7.7 n.a.
+Darussalam*
+Bulgaria* 5.4 31.9 259.7
+Djibouti* n.a. n.a. 141.5
+Estonia* 2.1 14.8 276.1
+Lithuania* 2.9 14.5 177.0
+Hong Kong SAR*# 4.6 69.9 674.9
+Macao SAR* 13.9 57.9 1,999.3
+Sources: International Financial Statistics, October 2006 Issue, the IMF.
+Monthly Financial Statistics September 2006, Authority of Taiwan, China.
+Notes: 1 Total reserves minus gold indicate figures at end-June 2006. Imports of goods and services
+indicate figures for the whole year of 2005.
+2 Total reserves minus gold indicate figures at end-2005. Nominal GDP indicate figures for the
+whole year of 2005.
+3 Total reserves minus gold and currency in circulation indicate figures at end-June 2006, except
+currency in circulation of Korea, which indicate figure at end-May 2006.
+n.a.=not available.
+*Economies adopt the currency board system.
+#Imports of Hong Kong SAR contain a large portion of re-exports.
+45 As Johnson (1958) argues, the BOP problem is monetary in nature and fundamentally related to the
+fact that the banking system can create credit. This implies that international reserves are very unlikely
+to back all domestic money supply. However, bank deposits, which typically account for a dominant
+portion of broad money supply, are liabilities of the banking system rather than the monetary
+authorities.
+- 97 -
+
+--- page 18 ---
+The Basic Framework for International Reserves and Its Application to Macao
+Chart 2: Ratio of International Reserves to Pataca M2, 2000-2006
+(%)
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+Mar Sept Mar Sept Mar Sept Mar Sept Mar Sept Mar Sept Mar Sept
+2000 2001 2002 2003 2004 2005 2006
+Source: AMCM.
+6. Concluding Remarks: Policy Implications
+International reserves are important financial resources for an economy. They
+perform unique and crucial economic functions, and have notable implications for the
+external and internal balance of an economic system. Evolution in international
+reserves is closely linked to the stance of monetary and exchange rate policy adopted
+by the authorities, which should therefore possess a certain degree of influence on
+their developments.
+The quantity of reserves holding should not be simply interpreted as an indicator of
+economic strength. It is determined by a number of factors as shown in this paper.46
+Macao, as a Special Administrative Region of the People’s Republic of China with
+independent economic institutions, is apparently in a superior position in reserve
+holding by all international standards, though whether its current level of reserves in
+absolute terms is already more than enough is another question. To our best
+46 China, therefore, as a developing country, is holding the amount of international reserves, at about
+one trillion US dollars or 20% of world reserves at end-2006, larger than those of advanced countries
+such as the USA, Japan and Germany.
+- 98 -
+
+--- page 19 ---
+The Basic Framework for International Reserves and Its Application to Macao
+knowledge, there is still no norm for measurement of optimal or maximum reserves in
+the field of economics, though some demand-for-reserves models and standard
+reserve adequacy ratios apparently offer certain useful criteria for comparison across
+countries and sensible explanations for cross-country variation at the level of
+international reserves.
+To the utmost policy concern for monetary stability, the 100% reserves cover of broad
+pataca money under the linked exchange rate system has already guaranteed the
+convertibility of all domestic monetary liabilities into foreign currencies. The
+continued accumulation of international reserves on top of that amount would simply
+reveal a prolonged imbalance in the SAR’s BOP in the form of persistently large
+current account surplus, which is likely to stem from some structural factors in the
+economy worthy of further exploration. It also implies that the amount of reserves
+exceeding the level of “backing assets” could be managed under a more return-
+oriented investment strategy in order to minimise the opportunity cost of reserves
+holding. In fact, according to a recent Bank for International Settlements report, a
+gradual shift of international reserves into higher-yielding, higher-risk instruments has
+been a global trend in recent years, when the amount of world reserves has grown at a
+fast pace.47
+Referring to some international examples such as the Government Petroleum Fund in
+Norway, the surplus reserves stemmed from a narrow base of external revenues could
+be considered to allocate to a separate stabilisation and savings portfolio. In view of
+Macao’s heavy economic dependence on inherently volatile visitor gaming revenues,
+the portfolio could be tailored for financing temporary fiscal revenue shortfalls,
+47 See Wooldridge (2006). It is reported that Macao’s exchange reserves have been divided into a
+“liquid” portfolio and an “investment” portfolio with the latter being “targeted to enhance income while
+observing a significant degree of capital protection”. See Monetary Authority of Macao Annual Report,
+2005, p. 26. Meanwhile, over 70% of Macao’s reserves are placed in bank deposits according to the
+Monetary Authority of Macao Annual Report while developing countries (industrial countries) hold
+about 33% (20%) of their reserves in deposits according to Wooldridge (2006), Table 2.
+- 99 -
+
+--- page 20 ---
+The Basic Framework for International Reserves and Its Application to Macao
+making direct investments to promote economic development and saving for future
+generations.48
+One widely cited undesirable effect of reserves accumulation is the disruption to
+internal balance in appearance of over-expansion of money supply or inflation.49 It is
+because monetary authorities create monetary base to purchase foreign currencies in
+the absence of corresponding complete sterilization. 50 In the case of Macao, this
+undesirable effect seems to be somewhat contained with a weak growth of domestic
+credit stemmed from fiscal surpluses51 and moderate expansion in lending of local
+banking institutions to the private sector.52 Between 2001 and 2005, the base money
+and broad money supply, M2, grew at annual average rates of 11.1% and 9.2%
+respectively, which were lower than the annual average growth rate of real GDP at
+12.4%, and hence were far from over-expansionary.53
+To conclude, change in international reserves in Macao is largely a residual of the
+external balance in the present economic and policy setting. As long as its external
+account remains strong, Macao will continue to accumulate international reserves.
+Correction in the BOP surplus, and hence reserves accumulation, would only be
+48 In recent years, there have been some “innovative” uses of international reserves, such as creation of
+oil funds (Norway), recapitalisation of state-owned enterprises (China), repayment of external debt
+(Russia), and funding of investment projects (Chinese Taiwan). See European Central Bank (2006).
+49 See Mohanty and Turner (2006) for a detailed discussion about domestic implications of foreign
+exchange reserve accumulation in emerging markets. Even though monetary authorities are able to
+fully sterilise reserve accumulation, the economy could still face other undesirable implications such as
+large carrying costs, financial sector and future monetary imbalances, reduced efficiency in financial
+intermediation.
+50 In recent years, China has often been cited as a typical case for analysing this monetary hypothesis.
+51 Over the past five years, the international reserves grew at an average annual rate of 14.2%. The
+public-sector deposits, which are mostly maintained at the monetary authorities and excluded from the
+local money supply, recorded an average annual growth of 33.3% due primarily to accumulated fiscal
+surpluses. As a result, the surplus position of the government sector exerted a sterilisation effect on the
+monetary expansion.
+52 In recent years, sterilised intervention in emerging markets has been associated with large issuance of
+central bank or government debt paper (Mohanty and Turner 2006). Similarly, the increased issuance
+of central bank paper (i.e. monetary bills) has helped contain monetary expansion in Macao. However,
+the issuance is strictly speaking not a typical central-bank sterilisation operation but a standby liquidity
+absorption facility, as the monetary authorities just passively issue the paper at the request of
+commercial banks. See Chan (2004).
+53 The statistics indicate that rising inflation in Macao since 2005 would not be fuelled by monetary
+expansion. The inflation issue, however, is beyond the scope of this paper.
+- 100 -
+
+--- page 21 ---
+The Basic Framework for International Reserves and Its Application to Macao
+achieved with expanded domestic demand, real appreciation in the pataca,54 or/and
+most undesirably, deterioration in tourism exports. Meanwhile, the successful
+maintenance of a high degree of reserves adequacy will enhance the public confidence
+in the committed convertibility of the domestic currency and the monetary stability.
+54 Real appreciation will only appear with relatively high inflation under a fixed exchange rate regime.
+- 101 -
+
+--- page 22 ---
+References
+Aizenman, J. and J. Lee (2005), “International Reserves: Precautionary vs
+Mercantilist Views, Theory and Evidence,” IMF Working Paper, No. WP/05/198,
+October.
+Arndt, H.W. (1948), “The Concepts of Liquidity in International Monetary Theory,”
+Review of Economic Studies, October.
+Balance of Payments Manual, International Monetary Fund, Washington, D.C., 1993.
+Ben-Bassat, A. and D. Gottlieb (1992a), “On the Effect of opportunity Cost on
+International Reserve Holdings,” Review of Economics and Statistics, Vol. 74, No. 2,
+May, 329-32.
+Ben-Bassat, A. and D. Gottlieb (1992b), “Optimal International Reserves and
+Sovereign risk,” Journal of International Economics, Vol. 33, No. 3/4, November,
+345-62.
+Bilson, J. F.O. and J.A. Frenkel (1979), “Dynamic Adjustment and the Demand for
+International Reserves,” NBER Working Paper, No. 407, November.
+Bird, G. and R. Rajan (2003), “Too Much of a Good Thing? The Adequacy of
+International Reserves in the Aftermath of Crises,” World Economy, Vol. 26, 873-91.
+Brown, W.M. (1964), “The External Liquidity of an Advanced Country,” Princeton
+Studies in International Finance, No.14, Princeton.
+Calvo, G. and C. Reinhart (2000), “Fear of Floating,” NBER Working Paper, No.
+7993, November.
+- 102 -
+
+--- page 23 ---
+Chan, S.S. (2004), “The Practice of Central Banking in Macao,” AMCM Quarterly
+Bulletin, Issue No. 12, July, 33-67.
+Chan, S.S. (2006), “Rationales and Options for Economic Diversification in Macao,”
+AMCM Quarterly Bulletin, Issue No. 18, January, 17-31.
+Clark, P.B. (1970a), “Demand for International Reserves: A Cross-country Analysis,”
+Canadian Journal of Economics, Vol. III, No.4, November, 577-94.
+Clark, P.B. (1970b), “Optimum International Reserves and the Speed of Adjustment,’
+Journal of Political Economy, Vol. 78, No. 2, March/April, 356-76.
+Courchene, T.J. and G.M. Youssef (1967), “The Demand for International Reserves,”
+Journal of Political Economy, Vol. 75, No. 4, August, 404-13.
+Crockett, A.D. (1978), “Control over International Reserves,” IMF Staff Papers,
+Vol.25, No. 4, December, 1-24.
+De Beaufort Wijnholds, J.A.H. (1977), The Need for International Reserves and
+Credit Facilities, Martins NijhoffSocial Sciences Division, Leiden.
+Dooley, M., D. Folkerts-Landau and P. Garber (2003), “An Essay on the Revised
+Bretton Woods System, “ NBER Working Paper, No. 9971.
+Edwards, S. (1983), “The Demand for International Reserves and Exchange Rate
+Adjustments: The Case of LDC’s, 1964-1972,” Economica, Vol. 50, August, 269-80.
+Edwards, S. (1985), “On the Interest-Rate Elasticity of the demand for Internatioanl
+Reserves: Some Evidence from Developing Countries,” Journal of International
+Money and Finance, Vol. 4, June, 287-95.
+- 103 -
+
+--- page 24 ---
+Edwards, S. (2004), “Financial Openness, Sudden Stops, and Current Account
+Reversals,” American Economic Review, Vol. 94, No. 2, 59-64.
+Edwards, S. (2005), “Capital Controls, Sudden Stops and Current Account
+Reversals,” NBER Working Paper, No. 11170, March.
+European Central Bank (2006), “The Accumulation of Foreign Reserves,” European
+Central Bank Occasional Paper Series, No. 43, February.
+Flood, R. and N. Marion (2002), “Holding International Reserves in an Era of High
+Capital Mobility,” IMF Working Paper, No. WP/02/62, April.
+Frenkel, J.A. (1974), “The Demand for International Reserves by Developed and
+Less-Developed Countries, “ Economica, Vol. 41, February, 14-24.
+Frenkel, J.A. (1978), “International Reserves: Pegged Exchange Rates and Managed
+Float,” in K. Brunner and A.H. Meltzer (eds.), Public Policies in Open Economies,
+Carnegie-Rochester Conference Series on Public Policy: A Supplementary Series to
+the Journal of Monetary Economics, Vol. 9.
+Frenkel, J.A. (1983), “International Liquidity and Monetray Control,” in G.M. von
+Furstenberg (ed.), International Money and Credit: The Policy Roles, International
+Monetary Fund, Washington, D.C.
+Frenkel, J.A. and B. Jovanovic (1981), “Optimal International Reserves: A Stochastic
+Framework,” Economic Journal, Vol. 91, June, 507-14.
+Grubel, H.G. (1971), “The Demand for International reserves: A Critical Review of
+the Literature,” Journal of Economic Literature, Vol. 9, 1148-68.
+- 104 -
+
+--- page 25 ---
+Heller, H.R. (1966), “Optimal International Reserves,” Economic Journal, Vol.76,
+June, 296-311.
+Heller, H.R. and M. S. Khan (1978), “The Demand for International Reserves Under
+Fixed and Floating Exchange Rates,” IMF Staff Papers, Vol. 25, No. 4, December,
+623-49.
+Ho, C. (2002), “A Survey of the Institutional and Operational Aspects of Modern-day
+Currency Boards,” BIS Working Papers, No. 110, March.
+Pao, J.W. (2003a), “Foreign Reserves Management: The Case of Macao,” AMCM
+Quarterly Bulletin, Issue No. 8, July, 17-33.
+Pao, J.W. (2003b), “The Currency Board Arrangement and the Macao Experience,”
+AMCM Quarterly Bulletin, Issue No. 9, October, 35-50.
+Iyoha, M.A. (1976), “Demand for international Reserves in Less Developed Countries:
+A Distributed Lag Specification,” Review of Economics and Statistics, Vol. 58,
+August, 351-55.
+Jeanne, O. and R. Rancière (2006), “The Optimal Level of International Reserves for
+Emerging Market Countries: Formulas and Applications,” IMF Working Paper, No.
+WP/06/229, October.
+Johnson, H.G. (1956), “The Transfer Problem and Exchange Stability,” Journal of
+Political Economy, Vol. LXIV, No. 3, June, 212-25.
+Johnson, H.G. (1958), “The Balance of Payments,” Pakistan Economic Journal, Vol.
+VIII, No.2, June, 16-28.
+- 105 -
+
+--- page 26 ---
+Kelly, M.G. (1970), “The Demand for International Reserves,” American Economic
+Review, Vol. 60, September, 655-67.
+Kenen, P.B. and E.B. Yudin (1965), “The Demand for International Reserves,”
+Review of Economics and statistics, Vol. 47, No. 3, August, 242-50.
+Kester, A. Y. (2001), International Reserves and Foreign Currency Liquidity:
+Guidelines for a Data Template, International Monetary Fund.
+Machlup, F. (1966), “The Need for Monetary Reserves,” BNL Quarterly Review, No.
+78, September, 175-222.
+Mohanty, M.S. and P. Turner (2006), “Foreign Exchange Reserve Accumulation in
+Emerging Markets: What are the Domestic Implications?” BIS Quarterly Review,
+September, 39-52.
+Stiglitz, J. (2002), Globalization and Its Discontents, W.W. Norton, New York and
+London.
+Suss, E.C. (1976), “A Note on Reserve Use under Alternative Exchange Rate
+Regimes,” IMF Staff Papers, Vol. 23, July, 387-94.
+Terada-Hagiwara, A. (2005), “Foreign Exchange Reserves, Exchange Rate Regimes,
+and Monetary Policy: Issues in Asia,” Asian Development Review, Vol. 22, No. 2, 1-
+34.
+Triffin, R. (1947), “National central Banking and the International Economy,” Review
+of Economic Studies, February.
+Triffin, R. (1960), Gold and the Dollar Crisis, Yale University Press.
+- 106 -
+
+--- page 27 ---
+Williamson, J. (1973), Surveys in Applied Economics: International Liquidity,”
+Economic Journal, Vol. 83, September, 685-746.
+Williamson, J. (1976), Exchange-rate Flexibility and Reserve Use, Scandinavian
+Journal of Economics, Vol. 78, No. 2, 327-39.
+Wooldridge, P.D. (2006), “The Changing Composition of Official Reserves,” BIS
+Quarterly Review, September, 25-38.
+- 107 -
