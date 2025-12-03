@@ -1,0 +1,692 @@
+--- page 1 ---
+1
+Pegged Exchange Rate Systems in
+Macau and Hong Kong*
+Robert Haney Scott
+University of Macau, Macau
+and California State University, Chico, U.S.A.
+Macau pegs its currency, the pataca, to the Hong Kong dollar, which in turn
+is pegged to the U.S. dollar. This type of pegging order is unique in the annals
+of international financial arrangements. This article analyzes the structure of
+the pegged exchange rate systems in Macau and Hong Kong and discusses the
+financial and economic implications of these systems for the two territories
+(JEL F33, G15).
+Key words: currency board system, currency substitution, pegged exchange
+rates, seigniorage.
+I. Introduction
+Following the speculative attack on the Hong Kong dollar (HK dollar)
+in September of 1983, the Hong Kong government pegged the HK
+dollar to the U.S. dollar at 7.80/1.00, which has remained the same since
+then.1 This peg is a currency-based peg in that the exchange of HK
+dollar currency for U.S. dollar currency takes place only between banks
+and the government’s Exchange Fund. Because of processing costs, the
+banks charge a commission fee of 1 percent on each transaction initiated
+by non-bank customers. Therefore, the exchange rate for bank deposit
+* A portion of this article was presented at the symposium on Macau and Its Neighbors
+in Transition held at the University of Macau on March 18–19, 1996. The author would like
+to thank Ms. Winnie Kuan for valuable assistance in the preparation of the article and the
+referees and managing editor of the MFJ for helpful comments.
+1. Before the peg, there existed a government ordinance in Hong Kong called the
+Prohibition of Circulation of Foreign Currency to help strengthen the circulation of the HK
+dollar. The ordinance was abolished a few years after the establishment of the pegged system.
+(Multinational Finance Journal, 1997, vol. 1, no. 2, pp. 153–168)
+© by Multinational Finance Society, a nonprofit corporation. All rights reserved.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 2 ---
+154 Multinational Finance Journal
+money varies by 1 percent above and below the above pegged rate. The
+peg has made the HK dollar widely acceptable in foreign trade.
+However, the HK dollar has not been as widely acceptable in
+international trade as the U.S. dollar.
+Macau pegs the pataca to the HK dollar at 1.03/1.00, with an
+effective 1 percent range above and below. In 1993, the government of
+Macau passed an ordinance requiring local businesses to list the prices
+of goods in patacas, probably because of fear that the HK dollar might
+displace the pataca in Macau. Nevertheless, the government does not
+discourage the circulation of HK dollars and other foreign currency in
+Macau. Bank automatic teller machines (ATMs) in Macau dispense
+bank notes in either of the two currencies.2
+Having one currency pegged to another currency, which in turn is
+pegged to the U.S. dollar, is unique in the annals of international
+financial arrangements. Moreover, the fact that the HK dollar is widely
+used in local trade in Hong Kong raises a question of whether a
+currency with less intrinsic value (HK dollar) is driving out a currency
+with the higher intrinsic value (US dollar) that can easily be sent out of
+the country for deposit as “bullion” in foreign banks, as anticipated by
+Gresham’s Law.
+Gresham’s Law, named after Sir Thomas Gresham, states that bad
+money drives out good money. A definition for Gresham’s Law is found
+in Webster’s Ninth New Collegiate Dictionary :“ . . . when two coins are
+equal in debt-paying value but unequal in intrinsic value, the one having
+the lesser intrinsic value tends to remain in circulation and the other
+tends to be hoarded or exported as bullion.” The reference pertains to
+a bimetallic currency system and the term intrinsic value clearly refers
+2. Macau, established in 1557, is a Portuguese-administered territory across the Pearl
+River Estuary to the west of Hong Kong. It is expected to become a special administrative
+region of China on December 20, 1999. For nearly 300 years, its harbors kept Macau one
+of the richest cities in the world. However, when the British developed Hong Kong, with its
+deep water port, Macau’s predominance faded. It is now a center for gambling. Each
+weekend, thousands of Hong Kong gamblers journey by ferry or helicopter across 60
+kilometers of the Pearl River Estuary to gamble in Macau’s casinos. Macau is one of the
+smallest modern economies in the world to maintain its own currency. Its population is about
+half a million and its land area is less than ten square miles. In contrast, Hong Kong’s
+population is over 6 million and its land area is about 400 square miles. Both territories have
+large areas of steep rocky hillsides that are not suitable for cultivation or habitation. China
+maintains a special economic zone to the north of Hong Kong, called Shenzhen, and one to
+the north of Macau called Zhuhai. Both zones have grown rapidly during the past 15 years.
+There is no sales tax in Macau but, as in Hong Kong, there is a tax on business profits,
+gambling profits, and salaries above a certain level.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 3 ---
+Pegged Exchange Rates 155
+to the market value for metals set in international trade.
+The purpose of this article is to analyze the structure of the pegged
+exchange rate systems in Macau and Hong Kong and discuss the
+financial and economic implications of these systems for the two
+territories. The article proceeds as follows: Section II presents a brief
+literature review on currency substitution and presents statistics for
+Hong Kong and Macau. Section III discusses the mechanism and types
+of seigniorage earned by the governments in Macau and Hong Kong.
+Section IV elaborates on the notion of intrinsic value of paper money.
+Section V explores the financial and economic implications of the
+pegged exchange rate systems in the two territories. Section VI presents
+a brief summary and concluding remarks.
+II. Currency Substitution
+A. Literature Review
+The early literature on currency substitution revolves around the issue
+of the substitution of hard currencies for weak and volatile currencies
+of smaller countries. Aliber (1967) investigates the relation between
+changes in asset preferences and the demand for international reserves.
+He concludes that when prices of reserve assets are pegged, some
+mechanism to adjust their relative supply and demand is necessary to
+prevent hoarding of one asset or the other. McKinnon (1982) examines
+the implications of major currency substitution for the stability of
+money demand functions and recommends that the Federal Reserve
+should, in the interest of monetary stability, discontinue its policy of
+passively sterilizing the domestic monetary impact of foreign official
+interventions. Aiyagari (1989) explores the impact of asymmetric
+information on currency substitution. He concludes that higher quality
+assets are hoarded for future consumption, whereas lower quality assets
+are exchanged for current consumption. Thus, bad assets circulate
+faster than good assets.3 Miles (1978) suggests that the elasticity of
+substitution between currencies should be the variable of focus in
+empirical studies of currency substitution rather than the interest
+elasticity of demand. Calvo and Rodriguez (1978), using a rational
+expectations model of exchange rate determination, find that an increase
+in the money supply in a small open economy leads to an instantaneous
+3. See Aiyagari (1989), p. 692.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 4 ---
+156 Multinational Finance Journal
+deterioration of the real exchange rate.
+Craig (1997) provides a brief history of several dual currency
+regimes that existed in America from colonial to modern times. He
+suggests that perhaps smart-card money will spread to become the
+substitute currency in countries around the world.
+Jao (1992) documents a significant amount of currency substitution
+as a result of the speculation against the HK dollar that occurred a
+month prior to the installation of the pegged exchange rate system in
+Hong Kong. He finds that in a pegged exchange rate system where
+adequate reserves are held, exchange rate volatility due to speculation
+has a minor effect on currency substitution. Currency substitution takes
+place because of concerns over the intrinsic value of the currency.
+B. Currency Substitution in Hong Kong and Macau
+To ensure clarity, it is important to define the terms currency in
+circulation, money, and currency substitution. Currency in circulation
+includes domestic and foreign coins and notes. Money, as measured by
+M , includes currency in circulation and demand deposits in domestic
+1
+banks, whereas M also includes time deposits. The deposits can be in
+2
+domestic or foreign currency. The term currency substitution refers to
+the case where money in one country includes foreign coins, notes, and
+deposits. Thus, currency substitution refers to the use of another
+country’s currency. In the discussion that follows, the term currency is
+used loosely to include coins, notes, and deposits.
+Panel A of table 1 presents estimates of the composition of M and
+1
+M money in Hong Kong during the period 1987–96. The results show
+2
+that, on average, HK$ and Fx make up 90 percent and 10 percent of M ,
+1
+respectively. Except for the years 1990 and 1991, the proportions of
+HK$ and Fx to M remain close to their average figures. The results for
+1
+M are, however, different. The last two columns of panel A, show that
+2
+the HK$ and Fx make up about 45 and 55 percent of M , respectively.
+2
+This is because Hong Kong is an international banking center, thus, a
+large percentage of foreign currency (Fx) is held in the form of time
+deposits. The figures for Fx indicate that there is a relative increase in
+currency substitution in Hong Kong during the period 1987–90 and a
+relative decrease in currency substitution thereafter.
+Panel B of table 1 presents estimates of the composition of M and
+1
+M money in Macau in terms of patacas (Ptc), HK$, and Fx for the
+2
+period 1985–96.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 5 ---
+Pegged Exchange Rates 157
+TABLE 1. Composition of M and M in Hong Kong and Macau
+1 2
+A. Hong Kong
+Year HK$/M Fx/M HK$/M Fx/M
+1 1 2 2
+1987 90.1 9.9 45.9 54.1
+1988 89.2 10.8 43.1 56.9
+1989 89.8 10.2 40.9 59.1
+1990 85.4 14.6 39.0 61.0
+1991 87.0 13.0 43.5 56.5
+1992 89.7 10.3 44.0 56.0
+1993 89.8 10.2 48.3 51.7
+1994 90.6 9.4 49.7 50.3
+1995 90.1 9.9 53.4 46.6
+1996 91.2 8.8 58.4 41.6
+B. Macau
+Year Ptc/M HK$/M Fx/M Ptc/M HK$/M Fx/M
+1 1 1 2 2 2
+1985 44.2 51.7 4.1 26.6 59.9 13.5
+1986 44.3 50.0 5.6 25.7 54.2 20.2
+1987 37.3 54.0 8.7 22.6 51.5 25.9
+1998 38.9 48.5 12.6 19.1 56.3 24.6
+1989 40.5 49.5 10.0 20.9 55.2 23.9
+1990 35.8 47.3 16.9 22.7 49.0 28.3
+1991 27.6 59.2 13.2 22.8 51.1 26.1
+1992 28.8 57.3 13.9 23.9 50.8 25.3
+1993 31.5 53.2 15.3 27.8 48.0 24.2
+1994 35.8 53.1 11.1 27.1 55.5 17.4
+1995 38.5 51.3 10.2 29.0 56.3 14.7
+1996 42.5 47.6 9.9 30.5 54.9 14.5
+Note: Figures are expressed as percentages. HK$ is for HK dollars, Ptc is for patacas,
+and Fx is for foreign currency. The M definition of money includes currency in circulation
+1
+and demand deposits. The M definition includes M and time deposits. Data were collected
+2 1
+from The Hong Kong Digest of Statistics and AMCM Annual Reports.
+The results show that, on average, the Ptc, HK$, and Fx make up 35, 54,
+and 11 percent of M , respectively. Thus, the HK$ is the dominant
+1
+component of M money in Macau. Moreover, the annual figures show
+1
+that the composition of money in Macau is not stable over time.
+Specifically, during the last two years, 1995 and 1996, the share of HK$
+and Fx dropped below their average values of 54 and 11 percent and the
+share of the Ptc increased above its average value of 34 percent. The
+latter suggest a recent decrease of currency substitution in Macau. The
+last three columns of panel B show that, on average, HK$ and Fx make
+up 25, 54, and 21 percent of M , respectively. As in the case of M
+2 1
+money, the HK$ is the dominant component of M money. Interestingly,
+2
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 6 ---
+158 Multinational Finance Journal
+the HK$ holds its share during the recent years. This is because people
+in Macau use more Ptc and less HK$ in everyday transactions, but they
+hold more HK$ and Fx in banks in the form of time deposits.
+Currency substitution has important implications for earning
+seigniorage, which ranks as a principal inducement to governments to
+restrict the circulation of a foreign currency in their economies and stop
+the flow of seigniorage to other countries.
+III. Seigniorage in Macau and Hong Kong
+A. Types of Seigniorage
+Seigniorage is a type of revenue governments earn because of their
+monopoly over the production of coins and notes. Many centuries ago,
+governments took over the minting of coins. Individuals with precious
+metal could take it to the government, and, for a fee called brassage, the
+government’s mint would stamp a coin out of the metal so the individual
+could use the coin in commerce. Initially, the metal was stamped to
+verify its gold or silver content. But later governments mixed gold or
+silver with metal of lower value to create a “token” coin in contrast to
+full-bodied coin. This led to the creation of paper money.
+One can distinguish between two types of returns to government
+from the issue of currency. One is seigniorage and the other is inflation
+tax. Although some analysts refer to both as seigniorage, there are
+important differences between the two.4
+Barro and Stevenson (1997) report that the cost of printing paper
+notes in the U.S. is about four cents. Thus, the U.S. government makes
+a profit of 96 cents when it spends a newly printed dollar bill and a
+profit of $99.96 when it spends a newly printed $100 bill. This profit
+may be called seigniorage. By issuing its own currency and enforcing
+laws against counterfeiting, a government can literally make money to use
+for expenditures. Seigniorage also takes the form of the interest earned
+on the outstanding amount of domestic currency. This is the principal
+form of seigniorage for the governments of Macau and Hong Kong.
+Inflation is usually the result of excess issue of money, mainly for
+the purpose of financing government expenditure. The government’s
+purchases of goods and services leave fewer resources for the private
+4. For a complete explanation of the origins of seigniorage and the way it is earned by
+governments and by banks that issue money, see Scott (1995), pp. 96–102.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 7 ---
+Pegged Exchange Rates 159
+sector. With more money and fewer resources, the result is higher
+prices and inflation. Essentially, inflation is a form of indirect income
+tax, since it causes a decline in the purchasing power of the public’s
+income. Thus, by issuing excess money, the government profits at the
+expense of the consuming public. In addition, inflation often leads to
+increases in nominal income and government tax revenue.
+Although both the inflation tax and seigniorage are significant forms
+of government revenue, this article focuses on the economic structure
+and measurement of seigniorage.
+B. Currency Board System and Seigniorage
+Under the Currency Board System, the issue of coins and notes by a
+bank must be backed with the equivalent amount of foreign exchange
+or interest-earning (foreign) assets. These assets permit the government
+to earn interest (seigniorage) on the outstanding amount of currency in
+circulation. They also act as collateral to the amount of currency issued.
+If Hong Kong, for example, were to employ the U.S. dollar as its
+medium of exchange, the seigniorage would be lost to America. That
+is why it is important for the Hong Kong government to see that U.S.
+currency does not replace the HK dollar in everyday transactions.
+Similarly, if the Macau government wishes to raise seigniorage revenue
+from its issue of the pataca, then the pataca rather than the HK dollar
+should circulate more widely in Macau.
+C. Economic Framework of Seigniorage
+Traditionally, the Banco Nacional Ultramarino (BNU) has acted as the
+banker for the government of Macau and issued its currency.5 In
+October 1996, however, the local branch of the Bank of China (BOC)
+also began issuing currency for Macau. The Authority for Money and
+Foreign Exchange of Macau (AMCM) is the government agency
+charged with the supervision of banks and the management of the
+monetary system and foreign exchange reserves in Macau.6
+To issue new pataca notes, the BNU or BOC must obtain certificates
+of indebtedness (CI’s) from the AMCM. For this purpose, the banks
+must deposit the equivalent amount of foreign exchange or interest
+earning assets—denominated in U.S. or HK dollars—with the AMCM.
+Neither the BNU nor BOC can earn interest on the CI’s held. The
+5. BNU is a bank based in Portugal but with offices in Macau.
+6. The Portuguese name for AMCM is Autoridade Monetaria e Cambial de Macau.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 8 ---
+160 Multinational Finance Journal
+foreign exchange deposits (henceforth called reserves) serve as backing
+for the amount of newly issued notes and they are used by AMCM to
+earn seigniorage for the government.
+As the amount of pataca notes in the economy expands, the foreign
+exchange reserves held by the AMCM expand. Currently, the foreign
+exchange reserves exceed the amount outstanding of pataca notes, when
+evaluated at the pegged exchange rate of 1.03 Ptc/HK$. This is because
+the government is letting the earnings from seigniorage accumulate
+rather than spending them or cutting taxes. Thus, over the years the
+volume of reserves has been enlarged by the compounding of interest
+returns. Unfortunately, the AMCM chooses not to publish the volume
+of reserves it holds nor the yields earned on these reserves. However,
+the general policy of the AMCM is to invest in low-risk assets.7
+The note-issuing banks in Hong Kong are the Hongkong Shanghai
+Banking Corporation, the Standard Chartered Bank, and the local
+branch of the BOC. As in the case of Macau, the issue of notes must be
+backed with assets deposited by the Exchange Fund (EF). The
+relationship between the EF and the local banks in Hong Kong,
+regarding the issue of new notes, is similar to that of AMCM and local
+banks in Macau.
+The EF, established by the former British colonial government of
+Hong Kong, is charged with the management of foreign exchange
+reserves under the currency board system.8 Currently, the EF manages
+between 70 and 80 billion U.S. dollars in foreign exchange reserves.
+These reserves also include government budget surpluses invested by
+the EF in foreign currency denominated assets. Note that the precise
+amount of reserves held by the EF is difficult to know because it
+fluctuates with global market conditions. Hong Kong’s foreign
+exchange reserves are the fifth largest in the world.
+In early 1997, the EF reported that the amount of HK notes in
+circulation was about 86 billion HK$, or 11 billion US$ when evaluated
+at the pegged exchange rate of 7.8 HK$/US$. Thus, the accumulated
+foreign exchange reserves held by the Hong Kong government are about
+seven times larger than the reserves needed to back the outstanding
+7. In a lecture presented at the University of Macau in 1997, a spokesman for the
+AMCM, who wished to remain anonymous, said that the AMCM had accumulated foreign
+exchange reserves of 2.3 billion U.S. dollars by mid-1997. On a per-capita basis, Macau
+might claim a rank of seventh in the world in terms of foreign exchange reserves.
+8. Specifically, the Exchange Fund is managed by the Hong Kong Monetary Authority
+(HKMA), established in 1993. The HKMA is overseen by the Monetary Affairs branch of
+the government of Hong Kong.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 9 ---
+Pegged Exchange Rates 161
+amount of Hong Kong notes.
+D. Seigniorage on Exported U.S. and HK Dollars
+Seigniorage represents transfer of interest from those holding the
+currency (coins and notes) to the government issuing the currency.
+Therefore, in the case of currency substitution—where residents in the
+home country hold foreign currency—seigniorage flows from the home
+country to the country issuing the currency. Thus, currency exported
+from one country for use in another country earns foreign exchange
+(purchasing power) as well as seigniorage for the exporting country.
+The major exporter of foreign currency in the world is the U.S.
+About $240 billion (60 percent) of the $400 billion outstanding U.S.
+notes circulates in foreign countries. Every dollar of this non-interest-
+bearing debt represents a dollar less that the U.S. government must
+borrow from the securities markets. The U.S. Treasury pays roughly 5
+percent interest to borrow funds. Thus, the total savings for the U.S.
+government from the exports of U.S. dollars is about $12 billion each
+year. Hanke (1995) points out that this indirect export of dollars is the
+most profitable export the U.S. has.9
+Hong Kong exports its currency into Macau and the adjacent
+Guangdong Province of China. Greenwood (1990) and Ogus (1992)
+estimate the proportion of Hong Kong currency circulating in Guangdong
+Province and find that the percentage was about 18 percent during 1990
+and 30 percent during 1995.10 The latter figure amounts to about HK$21.9
+billion of the HK$73 billion in circulation during 1995. The relevant
+estimate for Macau during 1991 was HK$2 billion.11 Thus, a 5 percent
+interest would produce HK$1.095 billion seigniorage for the Hong Kong
+government, coming directly from the persons living in Guangdong
+Province, and HK$100 million coming from Macau. The latter figure
+amounts to about 200 patacas per year for each person living in Macau.
+E. Seigniorage on Bank Deposits
+In countries where there are binding legal reserve requirements, banks
+must maintain non-interest-earning reserves. But, banks in Hong Kong
+9. See Hanke (1995), p. 126.
+10.See Greenwood (1990) pp. 37–44. Revisions of the original estimates by Greenwood
+are also presented in Ogus (1992), pp. 34–35.
+11.This estimate was based on a simple ratio of HK dollar demand deposits to pataca
+demand deposits, which was about 2.3 at the time.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 10 ---
+162 Multinational Finance Journal
+follow the UK system which only requires banks to hold liquidity
+reserves, usually held in interest-earning securities. In Macau there is
+a 3 percent legal reserve requirement on demand deposits, which must
+be held with the AMCM. Banks in Hong Kong and Macau generate
+part of the money supply in the form of demand deposits through the
+money multiplier mechanism. Banks making loans in the local currency
+realize interest earnings equal to the difference between the interest
+received from the loans and the interest paid on checking accounts and
+other deposits.
+Macau banks make more loans in HK dollars than they do in
+patacas, although their deposit base in patacas is quite large. To help
+the banks utilize their pataca surpluses, the AMCM began issuing
+monetary bills that banks can buy and earn interest on. By buying or
+selling monetary bills, the AMCM is in a position to affect the supply
+of patacas in Macau.
+Liquidity for the banking sector is maintained through the monetary
+bills market and not through direct injections of liquidity. Since there
+are no financial markets in Macau, the monetary bills are usually sold
+among banks. The AMCM is charged with the responsibility of acting
+as a buyer of last resort for the bills. The bills are considered to be risk-
+free instruments in Macau. Thus they provide a benchmark interest rate
+for the economy. Note that the monetary bills operations provide the
+foundation for the development of markets for other money market
+instruments in Macau.
+IV. Intrinsic Value of Paper Money
+The distinction between “bad” and “good” for paper money is not as
+clear as that of precious metal coins. In the case of coins, the
+international markets for gold and silver bullion determine the intrinsic
+value of money, relative to that of another country.
+Every commercial transaction of goods and services involves a buyer
+and a seller. The buyer pays money to the seller in exchange for the
+goods and services received. People in Macau consider the HK dollar
+to be of higher intrinsic value than the pataca. However, because the
+pataca is Macau’s tender currency, the sellers must accept it as the
+payment, regardless of its intrinsic value. The buyers, on the other
+hand, will tender their “bad” patacas to the seller and hold on to their
+“good” HK dollars usually in the form of time deposits.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 11 ---
+Pegged Exchange Rates 163
+The HK dollar has certain intrinsic qualities that the pataca does not
+have. It is used not only in Hong Kong, but also in Guangdong Province
+of China, and it is accepted nearly everywhere in the Asian Pacific
+region. As economic development in Macau progresses, the pataca may
+also become more acceptable to people in China and other neighboring
+countries. Nevertheless, the government of Macau can make the pataca
+more acceptable to people in Macau by permitting the casinos and
+exporters to pay taxes in patacas, rather than requiring them to pay their
+taxes in HK dollars or other foreign currency.12 Moreover, pegging the
+pataca to the Hong Kong dollar at a rate of one—i.e., to have the same
+face value as the HK dollar—will make the pataca a closer substitute for
+the HK dollar.
+V. Economic Consequences of Pegged Exchange Rates
+In September of 1983, a speculative attack drove the exchange rate
+between the HK dollar and the U.S. dollar from five to nine. The
+government of Hong Kong had no tools to control the money supply and
+stabilize the value of its currency. It could have asked the Hongkong
+Shanghai Banking Corporation to act as a central bank, but chose not to
+do so. Instead, in October of 1983, the Hong Kong government pegged
+the HK dollar to the U.S. dollar at the rate of 7.8; the fundamentals were
+suggesting a rate close to six.
+At the time of the peg, the U.S. dollar was very strong in the foreign
+exchange markets because of the high interest rates in the U.S. and the
+anti-inflation measures taken by the Federal Reserve. Soon after the
+peg, the inflation and interest rates in the U.S. started to decline. To
+support the pegged rate of 7.8, the authorities in Hong Kong were
+forced to hold local interest rates close to U.S. interest rates. The
+combined forces of the undervalued HK dollar and falling interest rates
+resulted in a booming inflationary economy in Hong Kong.
+Hong Kong has a legal banking cartel, the Hong Kong Association
+of Banks, which exercises considerable influence on domestic deposit
+and lending rates. Initially, the cartel did not support the pegged
+exchange rate system. But, soon after, it gave strong support to the
+12.The government of Macau collects taxes from the casinos in HK dollars, partly
+because tourists coming from Hong Kong use HK dollars in gambling. Also, when Macau
+exporters earn foreign exchange they are required to pay their taxes in foreign exchange.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 12 ---
+164 Multinational Finance Journal
+pegged system because it provided a key to large profit positions for the
+banks. Specifically, banks in the cartel could set deposit rates in the
+range of 2–4 percent and lending rates in the range of 10–12 percent.
+With inflation ranging between 8–10 percent, the banks could earn
+positive real returns continuously at the expense of the public, which
+suffered negative real returns.
+Economists repeatedly warned the government that the pegged
+exchange rate system left no weapon to use against inflation. The high
+inflation rates and low interest rates on deposits provided a strong
+incentive to the public to invest in real estate property. As inflation
+continued, real estate prices rose rapidly. The pegged fixed exchange
+rate guaranteed that real estate could always sell for more U.S. dollars,
+thus creating conditions of continuous inflation.
+Because the peg kept the HK dollar undervalued, on several
+occasions speculators sold U.S. dollars and bought HK dollars. Many
+times these HK dollars were placed into bank deposits in Hong Kong,
+earning close to zero interest. The EF was frightened by these
+speculative moves and obtained discretionary authority from the HK
+government to impose a tax on large deposits, in case it needed this
+power to make their effective yield negative. The EF did not find it
+necessary to use its authority to impose tax, but provisions for taxing
+deposits is still in place.
+Hong Kong authorities held back market pressures for a rise in the
+value of HK dollars. Exports remained inexpensive to foreigners, but
+imports — especially those from the U.S. — remained expensive. Thus,
+local exporters received less for their products and consumers paid more
+for imported products than they would have if the HK dollar had been
+permitted to rise in value.
+Fischer (1982) states that the inflation rate in a country that ties its
+currency to the currency of a major trading partner will converge to the
+inflation rate in the partner country. In the case of Hong Kong, the
+convergence was very slow. One reason for this may be that Hong
+Kong businesses shifted production to China to take advantage of low
+wage rates there to maintain exports even as local inflation was leading
+slowly to an overvalued HK dollar. Another reason for the slow
+convergence could be that productivity increased.
+Inflation in Hong Kong had finally made the HK dollar overvalued.
+As a result, on October 23–24, 1997, the Hong Kong stock market
+plunged by more than 25 percent. The latter triggered negative waves
+to the New York and other major international stock markets. These
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 13 ---
+Pegged Exchange Rates 165
+markets, however, recovered quickly, because there was no reason for
+large stock markets to be affected by a relatively small local market
+such as Hong Kong’s.
+Hong Kong’s market and economy have finally responded to
+Fischer’s forces of adjustment that promise to bring on significantly
+lower rates of inflation. To sustain the peg and keep the HK dollar from
+being overvalued, inflation in Hong Kong must eventually drop to about
+2 percent from its current rate of 7 percent. Such a drop will require
+difficult adjustments in the real economy, especially in the highly
+overvalued real estate sector.
+Geoffrey Tootell (1992), using cointegration analysis, finds that
+inflation rates do not converge even in major metropolitan areas within
+the U.S. This finding raises a serious question of whether inflation rates
+can converge between Hong Kong and the U.S. in light of the fact that
+the banking cartel in Hong Kong finds high inflation profitable.
+Nevertheless, in the long run, either inflation rates must converge or the
+exchange rate peg must adjust.
+Similarly, in Macau, people have invested their holding of patacas
+into real estate in the form of flats in high-rise buildings. In Macau
+there are currently 60,000 new apartments in about 300 to 400 empty
+buildings. The amount of housing available is sufficient to provide
+living space for a 50-percent increase in its population. Unfortunately,
+if the apartments were to fill up, there would not be sufficient road
+space, schools, water, and so forth, to provide for the occupants. This
+misallocation of investment resources is the result of the pegged
+exchange rate system.
+Whenever concerns were expressed about the pegged exchange rate
+system and the problem of inflation, officials in Hong Kong argued that
+the pegged system was necessary for “stability” because of the
+upcoming turnover of Hong Kong to China in July of 1997. After the
+turnover, many people claimed that the pegged exchange rate system
+was successful in providing stability.
+The pegged exchange rate system in Hong Kong stabilized the trade
+with the U.S., which accounts for about 30 percent of the total trade,
+and, perhaps, relative stability in the trade with other countries.
+However, the pegged system has produced higher inflation and
+misallocation of resources, especially in the real estate sector. Hong
+Kong’s overheated real estate sector recently triggered government
+intervention in the mortgage market.
+The three principal macroeconomic variables that act as cushions for
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 14 ---
+166 Multinational Finance Journal
+an economy subjected to intermittent shocks are exchange rates, interest
+rates, and the rate of inflation. When exchange rates are pegged,
+interest rates must be kept in line with the host country’s interest rates
+to avoid arbitrage. With no adjustment possible in the exchange rates
+and interest rates, adjustments toward longer-run equilibrium can only
+come about through swings in the rate of inflation. It might have been
+better to have the cushion provided by modest instability in flexible
+exchange rates, interest rates that would fluctuate in response to changes
+in the climate for investment, and minor variation in price levels, so that
+each of the three macroeconomic variables could do its work of partially
+cushioning the adverse effects of shocks to the system. All prices in a
+free market economy need to adjust to market forces if the economy is
+to enjoy true stability. Rigid exchange rates simply do not provide
+stability, as the case of Hong Kong today so aptly illustrates.
+VI. Summary and Conclusions
+This article began with a description of the unique currency system in
+Macau. The HK dollar is pegged to the U.S. dollar at 7.8 and the pataca
+is pegged to the HK dollar at a 1.03. The pataca is viewed as having
+less intrinsic value than the HK dollar because it is less acceptable in
+regional trade just as the HK dollar is less acceptable than the U.S.
+dollar in international trade. Thus, buyers of goods in Macau offer
+patacas and hold onto or export their HK dollars, and buyers of goods
+in Hong Kong offer HK dollars and hold onto or export U.S. dollars, as
+“dictated” by Gresham’s Law.
+Despite the pataca being less valuable than the Hong Kong dollar,
+a large portion of the circulating currency in Macau consists of Hong
+Kong dollars. The government can make the pataca more acceptable to
+people in Macau by permitting the casinos and exporters to pay taxes in
+patacas, rather than requiring them to pay their taxes in HK dollars or
+other foreign currency. Moreover, pegging the pataca to the Hong Kong
+dollar at a rate of one will make the pataca more acceptable in trade.
+Wider circulation of pataca will result in additional seigniorage for the
+government of Macau.
+The pegged exchange rate system had left the HK dollar undervalued
+and, as a result, the economy had boomed. Interest rates had to be kept
+close to U.S. interest rates to avoid arbitrage. The absence of monetary
+tools to control inflation in conjunction with the booming economy led
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 15 ---
+Pegged Exchange Rates 167
+to steady inflation. The high inflation rates and low interest rates on
+deposits provided a strong incentive to the public to invest in real estate.
+As inflation continued, real estate prices rose rapidly.
+Finally, by November 1997, Hong Kong prices had risen high
+enough to make its currency overvalued. The Hong Kong monetary
+authorities ware forced to intervene in the interbank market and
+purchase large volumes of HK dollars in defense against speculative
+attacks on its pegged rate system.
+Macau’s economy has suffered similar problems. Builders have
+built an excess number of apartments in tiny Macau and they are still
+building more apartments at a greater rate.
+Government interference in the setting of prices tends to weaken the
+efficient operation of an exchange economy. This is especially true in
+the case of foreign exchange markets. Political reality indicates that
+governments will always be under pressure to interfere with the price of
+foreign exchange. But pegged exchange rates do not guarantee long-
+term domestic economic stability even when the peg itself is rigidly
+maintained.
+References
+Aliber, R. Z. 1967. Gresham’s Law, asset preferences, and the demand for
+international reserves. Quarterly Journal of Economics 81: 628–638.
+Aiyagari, S. R. 1989. Gresham’s Law in a lemons market for assets. Canadian
+Journal of Economics (August): 686–697.
+Barro, R. J. and Stevenson, B. 1997. Do you want that in paper or metal? Wall
+Street Journal (November 6).
+Bernholz, P. and Gersbach, H. 1992. Gresham’s Law: Theory. New Palgrave
+Dictionary of Money and Finance: 286–288. London: Macmillan Press Ltd.
+Black, S. W. 1992. Seigniorage. New Palgrave Dictionary of Money and
+Finance 438–439. London: Macmillan Press Ltd.
+Calvo, G. A., and Rodriguez, C. A. 1977. A model of exchange rate
+determination under currency substitution and rational expectations.
+Journal of Political Economy: 617–625.
+Craig, B. 1996. Competing currencies: Back to the future? Economic
+Commentary (October 15). Cleveland: Federal Reserve Bank of Cleveland
+Fischer, S. 1982. Seigniorage and the case for a national money. Journal of
+Political Economy 90: 295–313.
+Fell, R. 1992. Crisis and Change: The Maturing of Hong Kong’s Financial
+Markets. Far East: Longman Group Ltd.
+Freris, A. F. 1991. The Financial Markets of Hong Kong. London: Routledge.
+Electronic copy available at: https://ssrn.com/abstract=2631567
+
+--- page 16 ---
+168 Multinational Finance Journal
+Goff, B. L., and Toma, M. 1993. Optimal seigniorage, the gold standard and
+central bank financing. Journal of Money Credit and Banking 25: 79–95.
+Greenwood, J. G. 1990. An estimate of HK$ currency circulation in
+Guangdong province. Asian Monetary Monitor 14(4): 37–44.
+Greenwood, J. G. 1995. The debate on the optimum monetary system. Asian
+Monetary Monitor 19(2): 1–5.
+Hanke, S. H. 1995. Our most profitable export. Forbes (December 4): 126.
+Hanke, S. H. and Schuler, K. 1994. Currency Boards for Developing
+Countries. San Francisco: San Francisco International Center for Economic
+Growth.
+Humpage, O. F., and McIntire, J. M. 1995. An introduction to currency boards.
+Economic Review 2: 2–12. Cleveland: Federal Reserve Bank of Cleveland.
+Jao, Y. C. 1992. Recent trends in currency substitution. Asian Monetary
+Monitor 16(4): 12–21.
+Ma, C. 1991. Monetary framework of Macau and its role in the Pearl River
+Delta. Working Paper: 2nd International Conference on Asian-Pacific
+Financial Markets.
+McCloskey, D. M. 1992. Gresham’s Law: History. The New Palgrave
+Dictionary of Money and Finance: 286. London: The Macmillan Press Ltd.
+McKinnon, R. I. 1982. Currency substitution and instability in the world dollar
+standard. American Economic Review 72: 320–323.
+Miles, M. A. 1978. Discussion on exchange rates and open economies.
+American Economic Review 88: 415–416.
+Mills, T. C., and Wood, G. E. 1993. Does the exchange rate regime affect the
+economy? Review (July/August): 3–20. St. Louis: Federal Reserve Bank of
+St. Louis.
+Ogus, S. 1992. Hong Kong dollar currency in Southern China – An updated
+estimate. Asian Monetary Monitor: 16(6): 34–35.
+Parry, R. T. 1985. Monetary policy in a dynamic global environment. Weekly
+Letter (November). San Francisco: Federal Reserve Bank of San Francisco.
+Rolnick, A. J., and Weber, W. E. 1986. Gresham’s Law or Gresham’s fallacy?
+Journal of Political Economy :185–199.
+Scott, R. H. 1995. Money, Financial Markets and the Economy. Singapore:
+Prentice Hall.
+Sowell, T. 1992. Say’s Law. New Palgrave Dictionary of Money and Finance:
+395–397. London: Macmillan Press Ltd.
+Tootell, G. M. B. 1992. Purchasing power parity within the United States
+(July/August) 16–24. New England Economic Review. Boston: Federal
+Reserve Bank of Boston.
+Williamson, J. 1995. What Role for Currency Boards 40 (September).
+Washington D.C.: Institute for International Economics.
+Electronic copy available at: https://ssrn.com/abstract=2631567
